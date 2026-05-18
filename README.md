@@ -1,6 +1,8 @@
 # Hydra
  Video explicativo de utilização do Hydra pelo THM.
 
+ https://www.youtube.com/watch?v=kG_dnP3mmKo
+
  # TryHackMe - Hydra Room Writeup
 
 Este repositório contém as notas, comandos e a resolução da sala **Hydra** na plataforma [TryHackMe](https://tryhackme.com/room/hydra). O objetivo deste laboratório é aprender a utilizar o THC-Hydra, uma das ferramentas de *brute-forcing* de credenciais de rede mais rápidas e populares do mundo.
