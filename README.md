@@ -9,7 +9,7 @@ Este repositório contém as notas, comandos e a resolução da sala **Hydra** n
 
 ## 📝 Visão Geral da Sala
 * **Dificuldade:** Fácil
-* **Tecnologias/Ferramentas Utilizadas:** Hydra, Linux (AttackBox), SSH, Protocolo HTTP (POST)
+* **Tecnologias/Ferramentas Utilizadas:** Hydra, Linux (VirtualBox),OpenVpn, SSH, Protocolo HTTP (POST)
 * **Objetivo:** Compreender a sintaxe do Hydra e utilizá-lo para comprometer serviços de rede (SSH) e formulários web (HTTP-POST) através de ataques de dicionário (*wordlists*).
 
 ---
