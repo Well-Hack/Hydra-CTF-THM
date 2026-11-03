@@ -1,7 +1,7 @@
 # Hydra
  Video explicativo de utilização do Hydra pelo THM.
 
- https://www.youtube.com/watch?v=kG_dnP3mmKo
+(https://www.youtube.com/watch?v=QOlXYrX1gDc)
 
  # TryHackMe - Hydra Room Writeup
 
