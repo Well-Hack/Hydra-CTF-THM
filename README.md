@@ -54,7 +54,7 @@ O primeiro objetivo prático consiste em descobrir a password web da utilizadora
 
         -V: Ativa o modo verboso para exibir os testes em tempo real.
 
-🔓 Flag 1 encontrada: [Insira a Flag 1 aqui]
+🔓 Flag 1 encontrada: [THM{2673a7dd116de68e85c48ec0b1f2612e}]
 2. Ataque de Força Bruta contra SSH
 
 O segundo objetivo envolve realizar o brute-force contra o serviço SSH utilizando o utilizador root.
@@ -75,7 +75,7 @@ hydra -l root -P passwords.txt <IP_ALVO> -t 4 ssh
 
         ssh: O protocolo/serviço que está a ser atacado (porta padrão 22).
 
-🔓 Flag 2 encontrada: [Insira a Flag 2 aqui]
+🔓 Flag 2 encontrada: [THM{c8eeb0468febbadea859baeb33b2541b}]
 🧠 Conclusões e Boas Práticas (Mitigação)
 
 A execução deste laboratório demonstra o perigo da utilização de credenciais fracas ou reutilizadas. Para mitigar ataques de força bruta realizados por ferramentas como o Hydra, devem ser implementadas as seguintes defesas:
